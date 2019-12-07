@@ -1,2 +1,2 @@
 # GoWIKI
-# A basic HTTP server built in GO
+## A basic HTTP server built in GO
